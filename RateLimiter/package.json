@@ -9,9 +9,9 @@
     "start:serviceB": "node serviceB.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "express-rate-limit": "^7.1.5",
-    "axios": "^1.6.2",
-    "dotenv": "^16.3.1"
+    "axios": "^1.8.4",
+    "dotenv": "^16.3.1",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0"
   }
-} 
+}
